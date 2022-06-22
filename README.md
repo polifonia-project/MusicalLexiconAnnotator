@@ -1,6 +1,6 @@
 ---
 component-id: MusicalLexiconAnnotator
-name: Polifonia Music Lexicon Annotator
+name: Music Lexicon Annotator
 description:
 type:
 release-date:
