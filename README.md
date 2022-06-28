@@ -24,6 +24,7 @@ The annotation indicates also The output annotation is in JSON.
 ## Installation
 
 > git clone https://github.com/polifonia-project/MusicalLexiconAnnotator
+
 > pip install -r requirements.txt
 
 ## How to use
