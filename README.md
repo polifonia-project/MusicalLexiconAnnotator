@@ -1,10 +1,10 @@
 ---
 component-id: MusicalLexiconAnnotator
 name: Music Lexicon Annotator
-description:
-type:
-release-date:
-release-number:
+description: Component taking a text as input and annotating its content with word sense information according to Polifonia Lexicon.
+type: Repository
+release-date: 28/06/2022
+release-number: v0.0.1
 work-package: 
 - WP4
 licence:
