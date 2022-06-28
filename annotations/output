@@ -1,0 +1,93 @@
+{
+    "0": {
+        "form": "Enrico",
+        "lemma": "Enrico",
+        "pos": "PROPN",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "1": {
+        "form": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "2": {
+        "form": "playing",
+        "lemma": "play",
+        "pos": "VERB",
+        "wordnet_offset": "wn:01072949v",
+        "is_musical": "0"
+    },
+    "3": {
+        "form": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "4": {
+        "form": "cello",
+        "lemma": "cello",
+        "pos": "NOUN",
+        "wordnet_offset": "wn:02992211n",
+        "is_musical": "1"
+    },
+    "5": {
+        "form": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "6": {
+        "form": "his",
+        "lemma": "his",
+        "pos": "PRON",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "7": {
+        "form": "office",
+        "lemma": "office",
+        "pos": "NOUN",
+        "wordnet_offset": "wn:03841666n",
+        "is_musical": "0"
+    },
+    "8": {
+        "form": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "9": {
+        "form": "Valentina",
+        "lemma": "Valentina",
+        "pos": "PROPN",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "10": {
+        "form": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    },
+    "11": {
+        "form": "singing",
+        "lemma": "singe",
+        "pos": "VERB",
+        "wordnet_offset": "wn:00378521v",
+        "is_musical": "0"
+    },
+    "12": {
+        "form": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "wordnet_offset": "",
+        "is_musical": "0"
+    }
+}
