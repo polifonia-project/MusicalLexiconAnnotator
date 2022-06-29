@@ -19,7 +19,7 @@ credits:
 
 This module takes a text as input and annotate the content words in it with word sense information.
 It uses the **[Polifonia Lexicon](https://github.com/polifonia-project/Polifonia-Lexicon)** to indicate if a particular word sense is related to music.
-The annotation indicates also The output annotation is in JSON.
+The output annotation is in JSON.
 
 ## Installation
 
